@@ -1,149 +1,184 @@
-# Hey, I'm Suravi 👋
+# Suravi R
 
-### Building software that makes development and learning simpler.
+### Software Engineer in Progress | Developer Tools • Artificial Intelligence • Educational Technology
 
----
+I enjoy building software that solves practical problems.
 
-## 🧑‍💻 About Me
-
-```bash
-Suravi
-
-Developer
-Builder
-Problem Solver
-Continuous Learner
-```
-
-I enjoy creating software that solves practical problems.
-
-Most of my projects revolve around:
-
-* 🔧 Developer Productivity
-* 🤖 Artificial Intelligence
-* 📚 Educational Technology
-* ⚙️ Automation
-* 🌐 Full-Stack Applications
-
-I am particularly interested in building tools that reduce friction and improve the experience for developers and learners.
+My work focuses on creating tools that simplify development workflows, improve learning experiences, and transform complex technical challenges into intuitive solutions.
 
 ---
 
-## 🚀 Current Mission
+## Engineering Profile
 
-```txt
-Build useful products.
-Learn deeply.
-Ship consistently.
-Improve every iteration.
-```
+I am an Information Science student with a strong interest in software engineering, developer productivity, and applied artificial intelligence.
 
----
+Rather than building projects solely for demonstration, I enjoy working on systems that address real-world challenges and provide measurable value to users.
 
-## 🛠️ Tech Arsenal
+My areas of interest include:
 
----
-
-## 🏗️ What I'm Building
-
-### 🔧 DARTX
-
-A developer productivity extension focused on dependency management, environment setup, project analysis, and intelligent issue resolution.
-
-Goal:
-Make project setup and maintenance significantly easier for developers.
+* Developer Tools & Developer Experience (DevEx)
+* Artificial Intelligence Applications
+* Educational Technology
+* Software Engineering
+* System Design
+* Automation & Productivity Solutions
 
 ---
 
-### 🤖 AI-Powered C Programming Assistant
+## What Drives Me
 
-An AI-assisted learning platform that transforms complex compiler errors into beginner-friendly explanations.
+I am particularly interested in identifying friction points in technology and building solutions that reduce complexity.
 
-Goal:
-Help students learn programming concepts instead of getting stuck on error messages.
+Whether it is:
 
----
+* Helping developers resolve dependency issues faster
+* Making compiler errors understandable for beginners
+* Automating repetitive engineering tasks
+* Improving how users interact with software
 
-### 💡 Future Ideas
-
-* AI Developer Assistants
-* Intelligent VS Code Extensions
-* Developer Workflow Automation
-* Educational AI Platforms
-* SaaS Products
+I enjoy designing systems that make technology more accessible and efficient.
 
 ---
 
-## 🎯 Areas That Fascinate Me
+# Selected Projects
+
+## DARTX — Smart Dependency & Environment Manager
+
+A VS Code extension designed to improve the developer experience by detecting and resolving dependency and environment-related issues.
+
+### Key Contributions
+
+* Built a system for identifying missing dependencies and configuration problems
+* Developed intelligent project analysis capabilities
+* Implemented context-aware installation recommendations
+* Designed validation and recovery mechanisms for safer issue resolution
+* Focused on reducing onboarding time and setup friction for developers
+
+**Technologies:** TypeScript, Node.js, VS Code Extension API
 
 ---
 
-## 🧠 Developer Philosophy
+## AI-Powered C Programming Assistant
 
-> Software should remove complexity, not add to it.
+An intelligent educational platform that helps students understand and learn from programming errors.
 
-I enjoy taking frustrating workflows and turning them into smoother experiences through automation, better design, and intelligent tooling.
+### Key Contributions
 
----
+* Translates compiler errors into beginner-friendly explanations
+* Provides guided debugging support
+* Encourages conceptual understanding rather than trial-and-error fixes
+* Assists learners in identifying patterns behind common mistakes
+* Bridges the gap between compiler feedback and student learning
 
-## ⚡ Current Focus
-
-```yaml
-focus:
-  - Data Structures & Algorithms
-  - Software Engineering
-  - AI Applications
-  - Developer Productivity
-  - Building Real-World Projects
-```
+**Technologies:** Python, Flask, GCC Integration, AI Technologies
 
 ---
 
-## 📈 GitHub Activity
+## Automatic Timetable Generator Using Genetic Algorithms
+
+A scheduling system that automates timetable generation while satisfying multiple academic constraints.
+
+### Key Contributions
+
+* Applied Genetic Algorithms to optimization problems
+* Automated conflict-free timetable generation
+* Reduced manual scheduling effort
+* Managed faculty, classroom, and timing constraints efficiently
+* Developed an interactive web-based interface
+
+**Technologies:** Python, Flask, Genetic Algorithms
 
 ---
 
-## 🔥 Contribution Streak
+## HerbAura — Virtual Ayurvedic Garden
+
+An interactive educational platform designed to make learning about medicinal plants more engaging through immersive experiences.
+
+### Key Contributions
+
+* Developed a 3D exploration environment
+* Created interactive educational content
+* Improved accessibility of traditional knowledge
+* Focused on user engagement through visual learning
+
+**Technologies:** Three.js, JavaScript, HTML, CSS
 
 ---
 
-## 🏆 GitHub Trophies
+## Technical Foundations
 
----
+### Programming
 
-## 🖥️ Terminal
+Java • Python • C • C++ • SQL • JavaScript • TypeScript
 
-```bash
-$ current_project
-DARTX
+### Development
 
-$ learning
+HTML • CSS • Flask • Node.js
+
+### Databases
+
+MySQL • PostgreSQL • Supabase
+
+### Tools
+
+Git • GitHub • Docker • VS Code
+
+### Core Computer Science
+
+Data Structures & Algorithms
+
+Object-Oriented Programming
+
+Operating Systems
+
+Database Management Systems
+
+Computer Networks
+
 Software Engineering
 
-$ building
-Developer Tools + AI Applications
+---
 
-$ status
-Shipping features...
-```
+## Current Focus
+
+Currently working on:
+
+* Enhancing developer productivity tools
+* Building AI-assisted educational systems
+* Strengthening software engineering fundamentals
+* Exploring scalable application design
+* Preparing for software engineering internship opportunities
 
 ---
 
-## 🌱 Growth Tracker
+## Engineering Philosophy
 
-* [x] Built Full-Stack Applications
-* [x] Published a VS Code Extension
-* [x] Worked on AI-Based Projects
-* [x] Contribute to Major Open Source Projects
-* [ ] Launch a Product Used by Thousands
-* [ ] Build a Developer Ecosystem
+> Great software is not defined by complexity.
+>
+> It is defined by how effectively it solves a problem.
 
----
-
-## 🌍 Connect
+I believe technology should simplify workflows, improve understanding, and empower users to achieve more with less friction.
 
 ---
 
-### Thanks for stopping by 🚀
+## Looking Ahead
 
-Building. Learning. Improving.
+My long-term goal is to contribute to products that impact developers, learners, and technology communities at scale.
+
+I am particularly interested in opportunities involving:
+
+* Software Engineering
+* Developer Tools
+* Artificial Intelligence
+* Platform Engineering
+* Product Development
+
+---
+
+## Connect
+
+**GitHub:** [httpsgithub.com/SuraviR10](https://github.com/SuraviR10)
+
+**LinkedIn:** www.linkedin.com/in/suravir
+
+**Email:** [suravimys@gmail.com](mailto:suravimys@gmail.com)
